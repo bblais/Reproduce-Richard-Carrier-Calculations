@@ -59,6 +59,12 @@ vals,S=P_to_display2(PP)
 # In[ ]:
 
 
+print(S)
+
+
+# In[ ]:
+
+
 df,Tc,Tu=get_carrier_data()
 
 
